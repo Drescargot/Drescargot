@@ -1,7 +1,6 @@
-# 👋 Hey, moi c’est Toto
+# 👋 Hey, moi c’est Thomas
 
 💻 **Lycéen passionné par l’informatique, le développement et l’intelligence artificielle**  
-🚀 Objectif : devenir autonome financièrement tôt et construire une vraie liberté de vie  
 🧠 Actuellement focus sur Python, le développement personnel et les bases de l’IA
 
 ---

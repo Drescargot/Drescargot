@@ -1,10 +1,8 @@
-<h1 align="center">👋 Salut, moi c'est [Ton Nom]</h1>
-<h3 align="center">🚀 [Ta phrase courte / tagline]</h3>
+<h1 align="center">👋 Salut, moi c'est Thomas</h1>
+<h3 align="center"> / tagline]</h3>
 
 <p align="center">
-  <a href="[Ton LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="[Ton Portfolio]"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" /></a>
-  <a href="mailto:[Ton Email]"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+
 </p>
 
 ---
@@ -12,9 +10,9 @@
 ## 🧠 À propos de moi
 
 - 🎯 Objectif : [Ton objectif principal]
-- 💻 Passionné par : [Domaines]
-- 🚀 Actuellement en train de : [Ce que tu fais en ce moment]
-- 🧩 J’aime travailler sur : [Types de projets]
+- 💻 Passionné par : Le domaine de l'informatique et plus précisément de l'ia. (Et des jeux vidéos bien sur).
+- 🚀 Actuellement en train de : Développer mon application de développement personnel en flutter.
+- 🧩 J’aime travailler sur : Pour l'instant projet d'application mobile mais essayer de, plus tard, découvrir plus profondemment la création d'une ia.
 
 ---
 
@@ -37,36 +35,29 @@
 
 ## 🚀 Projets
 
-### 🔹 [Nom du projet]
-> ✨ [Petite description stylée]
+### 🔹 Quotidien
 
-- ⚙️ Tech : [Technos]
-- 🎯 Objectif : [But]
-- 🔗 Lien : [Lien du repo ou site]
+
+- ⚙️ Tech : Flutter principalement et sql.
+- 🎯 Objectif : Aider les personnes ayant la volonté de changer et de mon coté vraiment rentrer dans le marcher de la programmation.
+- 🔗 Statut : En phase terminale de développement !
 
 ---
 
-### 🔹 [Nom du projet 2]
-> ✨ [Description]
+### 🔹 Betfun
+> ✨ Application de paris sportifs sans mise d'argent.
 
 ---
 
 ## 📚 Ce que j'apprends en ce moment
 
-- 🧠 [Sujet 1]
-- ⚡ [Sujet 2]
-- 🔥 [Sujet 3]
+- 🧠 Maitriser en profondeur les différents aspects du backend.
+- ⚡ A avoir les mêmes connaissances et réflexes qu'un développeur senior.
+- 🔥 Obtenir toutes les tenus des différentes écoles dans The witcher 3.
 
----
-
-## 🤝 Me contacter
-
-- 📧 Email : [Ton email]
-- 💼 LinkedIn : [Lien]
-- 🌐 Portfolio : [Lien]
 
 ---
 
 <p align="center">
-  ⚡ " [Ta citation stylée] "
+ 
 </p>

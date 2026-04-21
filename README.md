@@ -1,5 +1,5 @@
 <h1 align="center">👋 Salut, moi c'est Thomas</h1>
-<h3 align="center"> / tagline]</h3>
+<h3 align="center"> / </h3>
 
 <p align="center">
 
@@ -9,7 +9,7 @@
 
 ## 🧠 À propos de moi
 
-- 🎯 Objectif : [Ton objectif principal]
+- 🎯 Objectif : Devenir développeur confirmé
 - 💻 Passionné par : Le domaine de l'informatique et plus précisément de l'ia. (Et des jeux vidéos bien sur).
 - 🚀 Actuellement en train de : Développer mon application de développement personnel en flutter.
 - 🧩 J’aime travailler sur : Pour l'instant projet d'application mobile mais essayer de, plus tard, découvrir plus profondemment la création d'une ia.

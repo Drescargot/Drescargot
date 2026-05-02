@@ -20,9 +20,9 @@
 ## 🧠 À propos de moi
 
 - 🎯 Objectif : Devenir développeur confirmé
-- 💻 Passionné par : Le domaine de l'informatique et plus précisément de l'ia. (Et des jeux vidéos bien sur).
-- 🚀 Actuellement en train de : Développer mon application de développement personnel en flutter.
-- 🧩 J’aime travailler sur : Pour l'instant projet d'application mobile mais essayer de, plus tard, découvrir plus profondemment la création d'une ia.
+- 💻 Passionné par : Le domaine de l'informatique et plus précisément de l'IA. (Et des jeux vidéo bien sûr).
+- 🚀 Actuellement en train de : Développer mon application de développement personnel en Flutter.
+- 🧩 J’aime travailler sur : Pour l’instant, je travaille sur des projets d’applications mobiles, mais j’aimerais plus tard découvrir plus profondément la création d’une IA.
 
 ---
 
@@ -48,9 +48,9 @@
 ### 🔹 Quotidien
 
 
-- ⚙️ Tech : Flutter principalement et sql.
-- 🎯 Objectif : Aider les personnes ayant la volonté de changer et de mon coté vraiment rentrer dans le marcher de la programmation.
-- 🔗 Statut : En phase terminale de développement !
+- ⚙️ Tech : Flutter principalement et SQL.
+- 🎯 Objectif : Aider les personnes ayant la volonté de changer, et de mon côté entrer réellement dans le marché de la programmation.
+- 🔗 Statut : En phase finale de développement !
 
 ---
 
@@ -61,9 +61,9 @@
 
 ## 📚 Ce que j'apprends en ce moment
 
-- 🧠 Maitriser en profondeur les différents aspects du backend.
-- ⚡ A avoir les mêmes connaissances et réflexes qu'un développeur senior.
-- 🔥 Obtenir toutes les tenus des différentes écoles dans The witcher 3.
+- 🧠 Maîtriser en profondeur les différents aspects du back-end.
+- ⚡ À avoir les mêmes connaissances et réflexes qu'un développeur senior.
+- 🔥 Obtenir toutes les tenues des différentes écoles dans The Witcher 3.
 
 
 ---

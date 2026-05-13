@@ -29,7 +29,7 @@
 ## ⚙️ Stack & outils
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flutter,js,git,github,vscode,figma,vsc" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,js,git,github,vscode,figma,supabase" />
 </p>
 
 ---

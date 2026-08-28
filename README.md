@@ -23,4 +23,4 @@ Python • Backend • Machine Learning • AI
 
 ## 📌 Featured projects
 
-[projects]
+ regrelio

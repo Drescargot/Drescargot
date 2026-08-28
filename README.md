@@ -23,4 +23,5 @@ Python • Backend • Machine Learning • AI
 
 ## 📌 Featured projects
 
- regrelio
+ Regrelio : 
+ Evaluate and benchmark LLMs to detect regressions, compare models, and measure fine-tuning & quantization impact.
